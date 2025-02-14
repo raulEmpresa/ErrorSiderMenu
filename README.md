@@ -7,7 +7,9 @@ The icon in nav1 is from ant design and it is centered.
 
 However, in this case, the icon is a custom-designed icon, and it appears misaligned.
 
-![image](https://github.com/user-attachments/assets/5a2e75a4-ad96-4644-81c2-843e31fd1f73)
+![image](https://github.com/user-attachments/assets/5a2e75a4-ad96-4644-81c2-843e31fd1f73) <br>
+
+I have tried everything possible but could not find a solution.
 
 
 
