@@ -1,4 +1,5 @@
 import Icon from "@ant-design/icons";
+import { StringGradients } from "antd/es/progress/progress";
 import type { FC } from "react";
 import React from "react";
 
@@ -17,7 +18,7 @@ const LanguageSvg: FC<LanguageSvgProps> = ({
     <svg
         width={size}
         height={size}
-        viewBox={"0 0 24 15"}
+        viewBox={"0 0 24 5"}
         fill={"none"}
         xmlns={"http://www.w3.org/2000/svg"}
     >
