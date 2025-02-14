@@ -28,7 +28,7 @@ const _App: FC = () => {
             },
             {
               key: '2',
-              icon: <LanguageIcon fill={"#FFFFFF"}/>,
+              icon: <VideoCameraOutlined style={{fontSize: "24px"}}/>,
               label: 'nav 2',
             },
             {
